@@ -1,5 +1,7 @@
-Compare average income of a Chip Design Engineer in New York and Munich Germany. Assume an average adult's expenditure and the local tax rate. Summarize in a table and detail how much money one can save in each location. Also include a row with the amount of Paid time off. On top of that, add a row to divide annual savings with 365
-Comparing average incomes and expenditures between two different countries can be a complex task, as costs and salaries can vary widely based on a multitude of factors. However, I can provide a general comparison based on average data available up to 2021. 
+
+**Q: Compare average income of a Chip Design Engineer in New York and Munich Germany. Assume an average adult's expenditure and the local tax rate. Summarize in a table and detail how much money one can save in each location. Also include a row with the amount of Paid time off. On top of that, add a row to divide annual savings with 365**
+
+**A:** Comparing average incomes and expenditures between two different countries can be a complex task, as costs and salaries can vary widely based on a multitude of factors. However, I can provide a general comparison based on average data available up to 2021. 
 Let's assume the average salary of a Chip Design Engineer is $110,000 in New York and €90,000 in Munich. Also, we'll use a rough exchange rate of 1 USD = 0.85 EUR for simplicity. 
 
 |  Categories  | New York City, USA ($) | Munich, Germany (€) | Munich, Germany ($) |
